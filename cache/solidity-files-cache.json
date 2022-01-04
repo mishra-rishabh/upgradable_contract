@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "M:\\blockchain\\netObjex\\upgradeable_contract_1\\contracts\\Square.sol": {
+      "lastModificationDate": 1637847244417,
+      "contentHash": "0d7026c8bcbf2dd6497fd5deb625c922",
+      "sourceName": "contracts/Square.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Square"
+      ]
+    },
+    "M:\\blockchain\\netObjex\\upgradeable_contract_1\\contracts\\SquareV2.sol": {
+      "lastModificationDate": 1637895192477,
+      "contentHash": "7da2b9d2608fd92c1fcba076d239c53d",
+      "sourceName": "contracts/SquareV2.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "SquareV2"
+      ]
+    }
+  }
+}

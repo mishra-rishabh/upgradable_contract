@@ -1,0 +1,109 @@
+{
+  "version": "3.2",
+  "log": [
+    {
+      "SquareV2": {
+        "src": "contracts\\SquareV2.sol:5",
+        "version": {
+          "withMetadata": "f2458cab3abd11a02f2b02c04093d1eb4fdc76f1d927a6331e399babe1bac0ad",
+          "withoutMetadata": "edce1fcf46ca9f520a2737f01d1278ca4a370f56aca5b294d5132c306fd18920",
+          "linkedWithoutMetadata": "edce1fcf46ca9f520a2737f01d1278ca4a370f56aca5b294d5132c306fd18920"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "storeSide(uint256)",
+          "retrieveArea()",
+          "retrievePerimeter()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "contract": "SquareV2",
+              "label": "_side",
+              "type": "t_uint256",
+              "src": "contracts\\SquareV2.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256"
+            }
+          },
+          "layoutVersion": "1.1"
+        }
+      }
+    },
+    {
+      "Square": {
+        "src": "contracts\\SquareV2.sol:5",
+        "version": {
+          "withMetadata": "98af0e6a7b7a20cbb1da33e97192d4d387883b6f3e0052173d910b7e1070e047",
+          "withoutMetadata": "edce1fcf46ca9f520a2737f01d1278ca4a370f56aca5b294d5132c306fd18920",
+          "linkedWithoutMetadata": "edce1fcf46ca9f520a2737f01d1278ca4a370f56aca5b294d5132c306fd18920"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "storeSide(uint256)",
+          "retrieveArea()",
+          "retrievePerimeter()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "contract": "Square",
+              "label": "_side",
+              "type": "t_uint256",
+              "src": "contracts\\SquareV2.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256"
+            }
+          },
+          "layoutVersion": "1.1"
+        }
+      }
+    },
+    {
+      "Square": {
+        "src": "contracts\\Square.sol:5",
+        "version": {
+          "withMetadata": "abaf8732f47d7efc96f3fc2e1fdda42b8e2b2e279032eef83f4afee0eb6c0407",
+          "withoutMetadata": "4fea94aaa6b2012e3d45edec5d76551e05e617ae696599cd68561be17daf0497",
+          "linkedWithoutMetadata": "4fea94aaa6b2012e3d45edec5d76551e05e617ae696599cd68561be17daf0497"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "storeSide(uint256)",
+          "retrieveArea()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "contract": "Square",
+              "label": "_side",
+              "type": "t_uint256",
+              "src": "contracts\\Square.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256"
+            }
+          },
+          "layoutVersion": "1.1"
+        }
+      }
+    }
+  ]
+}
